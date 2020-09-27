@@ -2,7 +2,7 @@
 GCN with MNE input and preprocessing
 
 This repository works like [Pure python GCN](https://github.com/magnumical/GCN_for_EEG) , But the input of this repositorycomes from 'MNE'.
-
+Run this code on python 2.7 environment. ( of course python 3.6 works but you may face some issues) 
 
 
 ### What is new!
